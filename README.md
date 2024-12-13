@@ -45,4 +45,4 @@ JavaScript: For toggling the hamburger menu.
 Browser Developer Tools: For testing responsiveness.
 
 ## Sample Image:
-![Responsive Navigation Bar Sample](https://amirdehi.ir/wp-content/uploads/2024/12/interactive-user-card.jpg)
+![Responsive Navigation Bar Sample](https://amirdehi.ir/wp-content/uploads/2024/12/responsive-nav-bar.jpg)
